@@ -56,7 +56,7 @@ sudo pacman -S python-evdev python-psutil python-gobject gtk3 cpupower
 
 1. **Clone or download the script**:
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/mode.py
+   wget https://github.com/enesehs/nitro-mode/mode.py
    chmod +x mode.py
    ```
 
